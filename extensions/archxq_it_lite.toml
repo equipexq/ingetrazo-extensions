@@ -1,5 +1,5 @@
 id = "archxq_it_lite"
-version = "0.10.2"
+version = "0.10.3"
 author = "Orlando Souza · XQ"
 author_url = "https://github.com/equipexq"
 
@@ -7,10 +7,10 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/equipexq/archxq-it-lite"
 
-download = "https://github.com/equipexq/archxq-it-lite/releases/download/v0.10.2/archxq_it_lite-v0.10.2.zip"
-sha256 = "9b2caf7ea8fe0eb683a592162637315336de5d9a1ff51da31860d48c58de6af7"
+download = "https://github.com/equipexq/archxq-it-lite/releases/download/v0.10.3/archxq_it_lite-v0.10.3.zip"
+sha256 = "9ea03f80ed3fd74df50b4458d8c8b504a5cbe7456d09867069cde7b8ebd2118a"
 
-ingetrazo = "0.5.7"
+ingetrazo = "0.5.8"
 
 tags = ["architecture", "terrain", "structures", "drawing"]
 
@@ -22,6 +22,6 @@ en = "ArchXQ IT Lite · Architecture by phases"
 pt = "ArchXQ IT Lite · Arquitetura por fases"
 
 [summary]
-es = "Proyecto por fases sobre niveles reales: terreno con excavaciones y rellenos en rampa, muros rectos y curvos, y pilares en fila o en malla que se ajustan a las caras de los muros."
-en = "A project by phases on real levels: the plot with excavations and fills on ramps, straight and curved walls, and columns in rows or grids that snap to the wall faces."
-pt = "Projeto por fases sobre níveis reais: terreno com escavações e aterros em rampa, paredes retas e curvas, e pilares em fila ou em grelha que se alinham às faces das paredes."
+es = "Proyecto por fases sobre niveles reales: terreno con excavaciones y rellenos en rampa, muros rectos, curvos y muros cortina, y pilares en fila o en malla que se ajustan a las caras de los muros. En inglés, portugués y alemán."
+en = "A project by phases on real levels: the plot with excavations and fills on ramps, straight, curved and curtain walls, and columns in rows or grids that snap to the wall faces. In English, Portuguese and German."
+pt = "Projeto por fases sobre níveis reais: terreno com escavações e aterros em rampa, paredes retas, curvas e cortina de vidro, e pilares em fila ou em malha que se alinham às faces das paredes. Em inglês, português e alemão."
