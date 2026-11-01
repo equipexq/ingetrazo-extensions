@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-31T23:45Z",
+ "generated": "2026-11-01T14:54Z",
  "tags": [
   "analysis",
   "architecture",
@@ -325,6 +325,33 @@
    "updated_at": "2026-10-16T19:37Z"
   },
   {
+   "id": "plugins_toolbar",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/plugins_toolbar.py",
+   "sha256": "8131597ef408172db751d836422a949f53fc424a44463c30e8def05917e71c8a",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "productivity"
+   ],
+   "name": {
+    "es": "Barra de complementos 3D",
+    "en": "3D Plugins Toolbar",
+    "pt": "Barra de extensões 3D"
+   },
+   "summary": {
+    "es": "Una barra con un botón para cada complemento 3D de Eddy, y un submenú «3D Plugins by Eddy» en Extensiones.",
+    "en": "A toolbar with a button for each of Eddy's 3D plugins, and a '3D Plugins by Eddy' submenu under Extensions.",
+    "pt": "Uma barra com um botão para cada extensão 3D do Eddy, e um submenu «3D Plugins by Eddy» em Extensões."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
    "id": "organize_toolbar",
    "version": "1.2",
    "author": "seghier",
@@ -390,6 +417,33 @@
    "updated_at": "2026-10-08T15:41Z"
   },
   {
+   "id": "notepad",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/notepad.py",
+   "sha256": "28a5021bdc9105f35656f9c98f5925025266ce0ec6ef91a13cb2e075d993fad6",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "productivity"
+   ],
+   "name": {
+    "es": "Bloc de notas 3D",
+    "en": "3D Notepad",
+    "pt": "Bloco de notas 3D"
+   },
+   "summary": {
+    "es": "Un bloc de notas que queda en pantalla y se guarda solo, con un conversor de medidas reales a maqueta.",
+    "en": "A note pad that stays on screen and saves itself, with a real-to-model size converter.",
+    "pt": "Um bloco de notas que fica no ecrã e se guarda sozinho, com um conversor de medidas reais para maqueta."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
    "id": "cad2ingetrazo",
    "version": "3.23.3",
    "author": "M. Tariq",
@@ -424,6 +478,33 @@
    "reviewed": false,
    "added_at": "2026-10-08T21:49Z",
    "updated_at": "2026-10-21T20:31Z"
+  },
+  {
+   "id": "gutters_downpipes",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/gutters_downpipes.py",
+   "sha256": "703f12d1510f692b18887c972113169cf6907a7603250a1d6cc571279121d99a",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture"
+   ],
+   "name": {
+    "es": "Canalones y bajantes 3D",
+    "en": "3D Gutters & Downpipes",
+    "pt": "Caleiras e tubos de queda 3D"
+   },
+   "summary": {
+    "es": "Canalones, bajantes y piezas que encajan entre sí, con preajustes.",
+    "en": "Gutters, downpipes and fittings that join onto each other, with presets.",
+    "pt": "Caleiras, tubos de queda e acessórios que encaixam entre si, com predefinições."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
   },
   {
    "id": "chakkree_tools",
@@ -488,6 +569,33 @@
    "reviewed": false,
    "added_at": "2026-10-25T01:06Z",
    "updated_at": "2026-10-25T01:06Z"
+  },
+  {
+   "id": "scale_converter",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/scale_converter.py",
+   "sha256": "f31e9589a5e93eed46868f3c120b5f03e87d649b72c7382b74229b6543a56050",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "productivity"
+   ],
+   "name": {
+    "es": "Conversor de escala 3D",
+    "en": "3D Scale Converter",
+    "pt": "Conversor de escala 3D"
+   },
+   "summary": {
+    "es": "Una barra que convierte medidas reales (pies, pulgadas, mm) en medidas de maqueta a cualquier escala.",
+    "en": "A toolbar that turns real sizes (ft / in / mm) into model sizes at any scale.",
+    "pt": "Uma barra que converte medidas reais (pés, polegadas, mm) em medidas de maqueta a qualquer escala."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
   },
   {
    "id": "loop_cut",
@@ -747,6 +855,61 @@
    "updated_at": "2026-10-29T20:40Z"
   },
   {
+   "id": "wrap",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/wrap.py",
+   "sha256": "5eeb0d12836cd675aa9bae91ebbf8f4963ddd877eadfc29950ac12cb24f244f1",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture",
+    "fabrication"
+   ],
+   "name": {
+    "es": "Envolver 3D",
+    "en": "3D Wrap",
+    "pt": "Envolver 3D"
+   },
+   "summary": {
+    "es": "Coloca ladrillos hilada a hilada alrededor de chimeneas redondas, cuadradas, cónicas o dibujadas (sin junta, esquinas trabadas), o curva un patrón plano sobre un sólido.",
+    "en": "Lays bricks course by course round round, square, tapered or drawn chimneys (no seam, bonded corners), or bends any flat pattern round a solid, like Flowify.",
+    "pt": "Assenta tijolos fiada a fiada à volta de chaminés redondas, quadradas, cónicas ou desenhadas (sem junta, cantos travados), ou curva um padrão plano sobre um sólido."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
+   "id": "print_scaler",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/print_scaler.py",
+   "sha256": "5715b0e0789fbb89dacd2ff003f7fd604177157f0871439bf75dc238284f35bd",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "fabrication"
+   ],
+   "name": {
+    "es": "Escalador para impresión 3D",
+    "en": "3D Print Scaler",
+    "pt": "Escalador para impressão 3D"
+   },
+   "summary": {
+    "es": "Escala el objeto elegido a una escala (1:50, 1:100...) para imprimir en 3D y comprueba que cabe en la cama.",
+    "en": "Scales the selected object to a chosen scale (1:50, 1:100 ...) for 3D printing and checks it fits your print bed.",
+    "pt": "Escala o objeto escolhido para uma escala (1:50, 1:100...) para impressão 3D e verifica se cabe na mesa."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
    "id": "igz_tb_scenes",
    "version": "1.0.0",
    "author": "Ezequiel M. Rezende",
@@ -774,6 +937,34 @@
    "reviewed": false,
    "added_at": "2026-10-08T21:49Z",
    "updated_at": "2026-10-08T21:49Z"
+  },
+  {
+   "id": "brick_block_studio",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/brick_block_studio.py",
+   "sha256": "58fcf433c4cf481a009d1052ae114416411fc6e5d407d7fe6f50e7610968392e",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture",
+    "fabrication"
+   ],
+   "name": {
+    "es": "Estudio de ladrillos y bloques 3D",
+    "en": "3D Brick & Block Studio",
+    "pt": "Estúdio de tijolos e blocos 3D"
+   },
+   "summary": {
+    "es": "Ladrillo y bloque en 3D sobre una cara: aparejos, desfases, hiladas a tizón y a sardinel, envejecido, preajustes y cortes exactos en huecos. Sólidos cerrados para imprimir.",
+    "en": "3D brick and block work on a wall face: bonds, row offsets, header and soldier courses, weathering, presets and exact cuts round openings. Closed solids ready to print.",
+    "pt": "Alvenaria 3D de tijolo e bloco numa face: aparelhos, desfasamentos, fiadas, envelhecimento, predefinições e cortes exatos nas aberturas. Sólidos fechados para impressão."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
   },
   {
    "id": "igz_pdf3d",
@@ -1913,6 +2104,33 @@
    "updated_at": "2026-10-15T15:47Z"
   },
   {
+   "id": "period_doors",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/period_doors.py",
+   "sha256": "a363d2cd4d3b0c7b6fbadeda97f61630842ef989e56530def4cbc9369fbf4219",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture"
+   ],
+   "name": {
+    "es": "Puertas de época 3D",
+    "en": "3D Period Doors",
+    "pt": "Portas de época 3D"
+   },
+   "summary": {
+    "es": "Puertas de cuarterones, acristaladas, de tablas, de establo y correderas que se ajustan a la cara elegida, con montantes, escalones, dinteles y claves.",
+    "en": "Panelled, half-glazed, ledged and braced, stable and sliding goods doors that fit the selected face, with fanlights, steps, heads and keystones.",
+    "pt": "Portas almofadadas, envidraçadas, de tábuas, de estábulo e de correr que se ajustam à face escolhida, com bandeiras, degraus, vergas e fechos."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
    "id": "comfyui_renderer",
    "version": "1.0",
    "author": "seghier",
@@ -2094,6 +2312,34 @@
    "updated_at": "2026-10-11T14:25Z"
   },
   {
+   "id": "wood_planking",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/wood_planking.py",
+   "sha256": "f425fa22ee5961fa7dc0dbc2db011981488485378574c472befc7bf4487e84dd",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture",
+    "fabrication"
+   ],
+   "name": {
+    "es": "Tablas de madera 3D",
+    "en": "3D Wood Planking",
+    "pt": "Tábuas de madeira 3D"
+   },
+   "summary": {
+    "es": "Cubre una cara con tablas: lisas, machihembradas, solapadas, de tingladillo, con tapajuntas o troncos, con remates y efectos de abandono (podridas, agujeros, torcidas).",
+    "en": "Covers a face with timber boards: plain, V-jointed, shiplap, weatherboard, board and batten or logs, with trims and derelict effects (rot, holes, missing, skewed).",
+    "pt": "Cobre uma face com tábuas: lisas, macho-fêmea, sobrepostas, com mata-juntas ou troncos, com remates e efeitos de abandono (podres, furos, tortas)."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
    "id": "roof_tile_tool",
    "version": "1.2.1",
    "author": "Pesi (pesi3d.de)",
@@ -2120,6 +2366,34 @@
    "reviewed": false,
    "added_at": "2026-10-08T22:33Z",
    "updated_at": "2026-10-15T14:57Z"
+  },
+  {
+   "id": "roof_tiles",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/roof_tiles.py",
+   "sha256": "2df40ebcf90529c5237ce825b1bc44c5524d4899e0f55b5446efb8fe44d15178",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture",
+    "fabrication"
+   ],
+   "name": {
+    "es": "Tejas 3D",
+    "en": "3D Roof Tiles",
+    "pt": "Telhas 3D"
+   },
+   "summary": {
+    "es": "Cubre un faldón con tejas planas, pizarras o tejas con forma, solapadas o planas para imprimir, con cumbrera y remates. Cada faldón en su propio grupo.",
+    "en": "Covers a roof face with plain tiles, slates, shaped or profiled tiles, overlapping or flat for printing, with ridge tiles and finials. Each slope in its own group.",
+    "pt": "Cobre uma água do telhado com telhas planas, ardósias ou telhas perfiladas, sobrepostas ou planas para impressão, com cumeeira e remates."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
   },
   {
    "id": "terraroad",
@@ -2236,6 +2510,33 @@
    "updated_at": "2026-10-26T05:39Z"
   },
   {
+   "id": "soil_waste_pipes",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/soil_waste_pipes.py",
+   "sha256": "5087d932aa3aa6d42ee61cc57b5ab0825ec928e8924474f7dab86a050e543e63",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture"
+   ],
+   "name": {
+    "es": "Tuberías de desagüe 3D",
+    "en": "3D Soil & Waste Pipes",
+    "pt": "Tubos de esgoto 3D"
+   },
+   "summary": {
+    "es": "Bajantes de saneamiento y tuberías de desagüe exteriores con piezas que encajan entre sí, con preajustes.",
+    "en": "Soil stacks and outside waste pipes with fittings that join onto each other, with presets.",
+    "pt": "Tubos de queda de esgoto e tubos de descarga exteriores com acessórios que encaixam entre si, com predefinições."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
    "id": "ui_colores_space",
    "version": "0.1.0",
    "author": "sanask24",
@@ -2315,6 +2616,60 @@
    "reviewed": false,
    "added_at": "2026-10-02T14:40Z",
    "updated_at": "2026-10-29T20:54Z"
+  },
+  {
+   "id": "fences_gates",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/fences_gates.py",
+   "sha256": "1b80e02a6252cfef9e08337502afa9d60a680e7929b9b551d1e60987874f80b5",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture"
+   ],
+   "name": {
+    "es": "Vallas y puertas 3D",
+    "en": "3D Fences & Gates",
+    "pt": "Cercas e portões 3D"
+   },
+   "summary": {
+    "es": "Vallas de estacas, de tablas, de paneles, de postes y travesaños, de alambre, de acero y rejas sobre murete, con puertas y envejecido.",
+    "en": "Picket, close-boarded, panel, post and rail, post and wire, steel palisade and iron railings on a dwarf wall, with gates and weathering.",
+    "pt": "Cercas de estacas, de tábuas, de painéis, de postes e travessas, de arame, de aço e gradeamentos sobre muro, com portões e envelhecimento."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
+  },
+  {
+   "id": "period_windows",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/period_windows.py",
+   "sha256": "241502f9ce653fa69a464907e0a56a1b0dd74299da87a150fce0c75926bf4401",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "architecture"
+   ],
+   "name": {
+    "es": "Ventanas de época 3D",
+    "en": "3D Period Windows",
+    "pt": "Janelas de época 3D"
+   },
+   "summary": {
+    "es": "Ventanas de guillotina, abatibles e industriales que se ajustan a la cara elegida, con arcos, cristales, alféizares, dinteles y claves.",
+    "en": "Sash, casement and industrial windows that fit the selected face, with round tops, panes, sills, heads and keystones.",
+    "pt": "Janelas de guilhotina, de batente e industriais que se ajustam à face escolhida, com arcos, vidros, peitoris, vergas e fechos."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T14:54Z",
+   "updated_at": "2026-11-01T14:54Z"
   },
   {
    "id": "standalone_3d_html_viewer",
