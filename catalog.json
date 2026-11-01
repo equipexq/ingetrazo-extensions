@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T17:49Z",
+ "generated": "2026-11-01T18:19Z",
  "tags": [
   "analysis",
   "architecture",
@@ -1079,7 +1079,7 @@
    },
    "summary": {
     "es": "Coloca ladrillos hilada a hilada alrededor de chimeneas redondas, cuadradas, cónicas o dibujadas (sin junta, esquinas trabadas), o curva un patrón plano sobre un sólido.",
-    "en": "Lays bricks course by course round round, square, tapered or drawn chimneys (no seam, bonded corners), or bends any flat pattern round a solid.",
+    "en": "Lays bricks course by course around round, square, tapered or drawn chimneys (no seam, bonded corners), or bends any flat pattern round a solid.",
     "pt": "Assenta tijolos fiada a fiada à volta de chaminés redondas, quadradas, cónicas ou desenhadas (sem junta, cantos travados), ou curva um padrão plano sobre um sólido."
    },
    "reviewed": false,
