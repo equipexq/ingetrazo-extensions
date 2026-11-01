@@ -2531,6 +2531,7 @@
     "architecture",
     "fabrication"
    ],
+   "screenshot": "wood_planking.webp",
    "name": {
     "es": "Tablas de madera 3D",
     "en": "3D Wood Planking",
@@ -2757,6 +2758,7 @@
    "tags": [
     "architecture"
    ],
+   "screenshot": "soil_waste_pipes.webp",
    "name": {
     "es": "Tuberías de desagüe 3D",
     "en": "3D Soil & Waste Pipes",
