@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T16:04Z",
+ "generated": "2026-11-01T16:05Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2826,12 +2826,12 @@
   },
   {
    "id": "v_menu",
-   "version": "0.1",
+   "version": "0.2",
    "author": "priit123",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/priit123/ingetrazo-v-menu",
-   "download": "https://github.com/priit123/ingetrazo-v-menu/archive/refs/tags/0.1.zip",
-   "sha256": "11fec3c7e199637f1842d93e5c06d3c3a022fb4decbf7cf89e55d82b69e2cbc5",
+   "download": "https://github.com/priit123/ingetrazo-v-menu/releases/download/0.2/ingetrazo-v-menu-0.2.zip",
+   "sha256": "048870e82c1366f43712eb54a47828b0c9b91dbb64837e0866c0fc3f4ede31f1",
    "ingetrazo": "0.5.11",
    "tags": [
     "productivity"
@@ -2848,7 +2848,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-02T14:40Z",
-   "updated_at": "2026-10-29T20:54Z"
+   "updated_at": "2026-11-01T16:05Z"
   },
   {
    "id": "fences_gates",
