@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T16:05Z",
+ "generated": "2026-11-01T16:51Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2863,6 +2863,7 @@
    "tags": [
     "architecture"
    ],
+   "screenshot": "fences_gates.webp",
    "name": {
     "es": "Vallas y puertas 3D",
     "en": "3D Fences & Gates",
