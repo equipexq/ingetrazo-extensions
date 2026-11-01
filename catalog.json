@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T16:52Z",
+ "generated": "2026-11-01T16:53Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2587,6 +2587,7 @@
     "architecture",
     "fabrication"
    ],
+   "screenshot": "roof_tiles.webp",
    "name": {
     "es": "Tejas 3D",
     "en": "3D Roof Tiles",
@@ -2892,6 +2893,7 @@
    "tags": [
     "architecture"
    ],
+   "screenshot": "period_windows.webp",
    "name": {
     "es": "Ventanas de época 3D",
     "en": "3D Period Windows",
