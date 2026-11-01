@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T17:29Z",
+ "generated": "2026-11-01T17:47Z",
  "tags": [
   "analysis",
   "architecture",
@@ -1002,13 +1002,13 @@
   },
   {
    "id": "print_scaler",
-   "version": "1.0",
+   "version": "1.1",
    "author": "Phillip Edwards (Eddy)",
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/v1.0/plugins/print_scaler.py",
-   "sha256": "5715b0e0789fbb89dacd2ff003f7fd604177157f0871439bf75dc238284f35bd",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_print_scaler.py",
+   "sha256": "806174883a0df75168b66b5655ae3ae49ba7c8e46b75c8e52d9e8c540efdb947",
    "ingetrazo": "0.5.11",
    "tags": [
     "fabrication"
@@ -1025,7 +1025,7 @@
    },
    "reviewed": false,
    "added_at": "2026-11-01T14:54Z",
-   "updated_at": "2026-11-01T14:54Z"
+   "updated_at": "2026-11-01T17:46Z"
   },
   {
    "id": "igz_tb_scenes",
@@ -2719,6 +2719,33 @@
    "reviewed": false,
    "added_at": "2026-10-04T05:08Z",
    "updated_at": "2026-10-27T03:43Z"
+  },
+  {
+   "id": "loft",
+   "version": "1.0",
+   "author": "Phillip Edwards (Eddy)",
+   "author_url": "https://github.com/eddy-99",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/8bad2952c0fd896232d1f4d2f1803508b2aa19eb/plugins/3D_Eddys/ed3d_loft.py",
+   "sha256": "e08dbf1a9c10b78490c347c45af559fe7e97a46188093199105af21266c1e42d",
+   "ingetrazo": "0.5.11",
+   "tags": [
+    "drawing"
+   ],
+   "name": {
+    "es": "Transición 3D",
+    "en": "3D Loft",
+    "pt": "Transição 3D"
+   },
+   "summary": {
+    "es": "Crea un sólido entre dos o más perfiles, por ejemplo de un cuadrado a un círculo.",
+    "en": "Makes a solid between two or more profile faces, such as a square into a circle.",
+    "pt": "Cria um sólido entre dois ou mais perfis, por exemplo de um quadrado para um círculo."
+   },
+   "reviewed": false,
+   "added_at": "2026-11-01T17:46Z",
+   "updated_at": "2026-11-01T17:46Z"
   },
   {
    "id": "trim_fillet",
