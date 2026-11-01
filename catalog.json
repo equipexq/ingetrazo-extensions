@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T18:19Z",
+ "generated": "2026-11-01T18:44Z",
  "tags": [
   "analysis",
   "architecture",
@@ -1030,13 +1030,13 @@
   },
   {
    "id": "node_editor",
-   "version": "1.7.6",
+   "version": "1.7.8",
    "author": "seghier",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/IngeTrazoNodeEditor",
-   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.7.6/node_editor.zip",
-   "sha256": "645b759a065b22310bbbcdf1332be6e1bcd72044b7cc780455381e82aa0b54e3",
+   "download": "https://github.com/seghier/IngeTrazoNodeEditor/releases/download/v1.7.8/node_editor.zip",
+   "sha256": "11b29b188a57041a4780c5c802035bdbd68c20a7036a70370d7295b55f5e2fd5",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
@@ -1055,7 +1055,7 @@
    },
    "reviewed": false,
    "added_at": "2026-10-04T22:30Z",
-   "updated_at": "2026-10-29T20:40Z"
+   "updated_at": "2026-11-01T18:43Z"
   },
   {
    "id": "wrap",
@@ -1334,31 +1334,31 @@
   },
   {
    "id": "gumball",
-   "version": "1.3",
+   "version": "1.3.2",
    "author": "seghier",
    "author_url": "https://github.com/seghier",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/seghier/IngeTrazoGumball",
-   "download": "https://github.com/seghier/IngeTrazoGumball/releases/download/v1.3/gumball.zip",
-   "sha256": "5d8e8d03b7bc6346896d0565c10f89ab3e7cb2134b2d4cce3b2b6ce9b8659832",
+   "download": "https://github.com/seghier/IngeTrazoGumball/releases/download/v1.3.2/gumball.zip",
+   "sha256": "02c514283f6b6d641b250723ebf9c40ea5dfdc05a4103eb5bf68867890ac8b3c",
    "ingetrazo": "0.5.7",
    "tags": [
     "productivity",
     "drawing"
    ],
    "name": {
-    "en": "Gumball, NavOrbit & Split Views",
-    "es": "Gumball, NavOrbit y Vistas Divididas",
-    "pt": "Gumball, NavOrbit e Vistas Divididas"
+    "en": "Gumball & NavOrbit",
+    "es": "Gumball y NavOrbit",
+    "pt": "Gumball e NavOrbit"
    },
    "summary": {
-    "en": "Interactive 3D transform manipulator (translate, rotate, scale), 3D navigation orbit cube (NavOrbit) with camera presets, radial pie menu, and multi-viewport split views.",
-    "es": "Manipulador interactivo de transformación 3D (mover, rotar, escalar), cubo de navegación y órbita 3D (NavOrbit) con vistas predefinidas, menú radial y vistas divididas.",
-    "pt": "Manipulador interativo de transformação 3D (mover, rotacionar, escalar), cubo de navegação e órbita 3D (NavOrbit) com predefinições de câmera, menu radial e visualizações divididas."
+    "en": "Interactive 3D transform manipulator (translate, rotate, scale), 3D navigation orbit cube (NavOrbit) with camera presets, and radial pie menu.",
+    "es": "Manipulador interactivo de transformación 3D (mover, rotar, escalar), cubo de navegación y órbita 3D (NavOrbit) con vistas predefinidas y menú radial.",
+    "pt": "Manipulador interativo de transformação 3D (mover, rotacionar, escalar), cubo de navegação e órbita 3D (NavOrbit) com predefinições de câmera e menu radial."
    },
    "reviewed": false,
    "added_at": "2026-10-27T03:43Z",
-   "updated_at": "2026-10-31T11:13Z"
+   "updated_at": "2026-11-01T18:43Z"
   },
   {
    "id": "align_tool",
