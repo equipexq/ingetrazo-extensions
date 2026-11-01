@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T16:53Z",
+ "generated": "2026-11-01T16:57Z",
  "tags": [
   "analysis",
   "architecture",
@@ -984,6 +984,7 @@
     "architecture",
     "fabrication"
    ],
+   "screenshot": "wrap.webp",
    "name": {
     "es": "Envolver 3D",
     "en": "3D Wrap",
