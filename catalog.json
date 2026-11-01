@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-01T16:51Z",
+ "generated": "2026-11-01T16:52Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2321,6 +2321,7 @@
    "tags": [
     "architecture"
    ],
+   "screenshot": "period_doors.webp",
    "name": {
     "es": "Puertas de época 3D",
     "en": "3D Period Doors",
